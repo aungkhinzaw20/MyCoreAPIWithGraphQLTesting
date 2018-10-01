@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DocumentElement>
+  <ProductsInfo>
+    <ID>Test</ID>
+    <TimeStamp>String content</TimeStamp>
+    <Product>
+      <Pid>1212</Pid>
+      <PName>HelloWorld</PName>
+      <quantity>1</quantity>
+      <sale_amount>100</sale_amount>
+    </Product>
+  </ProductsInfo>
+  <ProductsInfo>
+    <ID>P001</ID>
+    <TimeStamp>2018/01/12 12:00:00</TimeStamp>
+    <Product>
+      <Pid>1</Pid>
+      <PName>String content</PName>
+      <quantity>5</quantity>
+      <sale_amount>100</sale_amount>
+    </Product>
+  </ProductsInfo>
+  <ProductsInfo>
+    <ID>P001</ID>
+    <TimeStamp>2018/01/12 12:00:00</TimeStamp>
+    <Product>
+      <Pid>1</Pid>
+      <PName>String content</PName>
+      <quantity>5</quantity>
+      <sale_amount>100</sale_amount>
+    </Product>
+  </ProductsInfo>
+  <ProductsInfo>
+    <ID>P001</ID>
+    <TimeStamp>2018/01/12 12:00:00</TimeStamp>
+    <Product>
+      <Pid>1</Pid>
+      <PName>String content</PName>
+      <quantity>5</quantity>
+      <sale_amount>100</sale_amount>
+    </Product>
+  </ProductsInfo>
+  <ProductsInfo>
+    <ID>P002</ID>
+    <TimeStamp>2018/01/12 12:00:00</TimeStamp>
+    <Product>
+      <Pid>1</Pid>
+      <PName>String content</PName>
+      <quantity>5</quantity>
+      <sale_amount>100</sale_amount>
+    </Product>
+  </ProductsInfo>
+  <ProductsInfo>
+    <ID>P003</ID>
+    <TimeStamp>2018/01/12 12:00:00</TimeStamp>
+    <Product>
+      <Pid>1</Pid>
+      <PName>String content</PName>
+      <quantity>5</quantity>
+      <sale_amount>100</sale_amount>
+    </Product>
+  </ProductsInfo>
+  <ProductsInfo>
+    <ID>P004</ID>
+    <TimeStamp>2018/01/12 12:00:00</TimeStamp>
+    <Product>
+      <Pid>1</Pid>
+      <PName>String content</PName>
+      <quantity>5</quantity>
+      <sale_amount>100</sale_amount>
+    </Product>
+  </ProductsInfo>
+  <ProductsInfo>
+    <ID>P009</ID>
+    <TimeStamp>2018/01/12 12:00:00</TimeStamp>
+    <Product>
+      <Pid>1</Pid>
+      <PName>String content</PName>
+      <quantity>5</quantity>
+      <sale_amount>100</sale_amount>
+    </Product>
+  </ProductsInfo>
+</DocumentElement>
